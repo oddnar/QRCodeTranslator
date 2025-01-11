@@ -1,7 +1,7 @@
 body {
   font-family: Arial, sans-serif;
   background: linear-gradient(135deg, #4554fb, #9fd6f6); /* Renk geçişi */
-  margin: 0;
+  margin:
   height: 100vh;
   display: flex;
   justify-content: center;
